@@ -239,7 +239,4 @@ Add a LICENSE file at the project root (e.g., MIT) — no license is currently i
 
 ---
 
-If you'd like, I can:
-- Add this README.md to the repository (create a commit) — tell me where to add it (root), and I will create the file.
-- Generate example `.env.example`.
-- Create a small Dockerfile and docker-compose to run Mongo + backend + optional frontend.
+
